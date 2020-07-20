@@ -1,0 +1,81 @@
+body{
+	margin: 0;
+	font-family: helventica,arial;
+	font-size: 20px;
+	line-height: 30px;
+
+}
+
+header{
+	background-color: navy;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+h1,h2{
+	font-family: 'Red Rose', cursive;
+
+}
+
+header h1{
+	color: white;
+	font-size: 50px; 
+}
+
+
+
+header img{
+	border-radius: 150px;
+	width: 300px;
+	border: 10px solid red;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 35px;
+	color: lightblue;
+	margin: 40px 0 10px;
+}
+
+a{
+	color: lightblue;
+
+}
+
+a:hover{
+	color: purple;
+}
+
+footer{
+	background-color: navy;
+	text-align: center;
+	color: white;
+	padding: 50px;
+}
+
+p.caption{
+	color: grey;
+	font-size: 15px;
+	font-style: italic;
+	margin: 0;
+
+}
+
+
+
+
+
+
+
+	
